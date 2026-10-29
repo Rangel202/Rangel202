@@ -1,66 +1,109 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Gabriel%20Rangel&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Front-end%20J%C3%BAnior%20%C2%B7%20Porto%20Alegre%2C%20RS&descSize=18&descAlignY=58" width="100%" alt="Gabriel Rangel, Desenvolvedor Front-end Júnior"/>
 
 <p align="center">
-  <b>Desenvolvedor Front-end Júnior</b> · Porto Alegre, RS<br>
-  Formado em Análise e Desenvolvimento de Sistemas pela FADERGS (2026)
+  <a href="https://github.com/Rangel202">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Sites+r%C3%A1pidos%2C+bonitos+e+feitos+para+o+celular;6+sites+no+ar+para+clientes+reais;Formado+em+ADS+pela+FADERGS+(2026);Buscando+minha+primeira+vaga+como+dev+j%C3%BAnior" alt="Sites rápidos, bonitos e feitos para o celular"/>
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-puchivailo-rangel-7a9675304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Aberto%20a%20vagas-J%C3%BAnior-22c55e?style=for-the-badge" alt="Aberto a vagas júnior">
+  <img src="https://img.shields.io/badge/Porto%20Alegre-RS-2563eb?style=for-the-badge" alt="Porto Alegre, RS">
 </p>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Crio sites rápidos, responsivos e pensados primeiro para o celular. Vários deles já estão no ar para clientes reais. Gosto de cuidar dos detalhes que o usuário sente: carregamento leve, navegação simples e um caminho direto até o contato.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela FADERGS e crio sites rápidos, responsivos e pensados primeiro para o celular. Seis deles já estão no ar para clientes reais, de catálogo de joias a site de grupo de resgate.
 
-- 🔭 Buscando minha primeira vaga como **Desenvolvedor Júnior** (Front-end, Back-end ou Full Stack)
-- 💼 Experiência anterior em **suporte técnico de TI** (estágio na FuelTech)
+Gosto de cuidar do que o usuário sente: página que carrega rápido, navegação simples e um caminho direto até o contato.
+
+- 🔭 Buscando minha **primeira vaga como Desenvolvedor Júnior** (Front-end, Back-end ou Full Stack)
+- 💼 Antes do desenvolvimento, fui **estagiário de suporte técnico de TI** na FuelTech
 - 🌎 Inglês intermediário
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <b>Front-end</b><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS"/>
+</p>
+
+<p align="center">
+  <b>Back-end e banco de dados</b><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,java,kotlin&perline=6" alt="Node.js, Express, PHP, MySQL, Java, Kotlin"/>
+</p>
+
+<p align="center">
+  <b>Ferramentas e qualidade</b><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,selenium&perline=5" alt="Git, GitHub, Vercel, VS Code, Selenium"/>
+</p>
 
 ## 🚀 Projetos para clientes
 
-| Projeto | O que é | Tecnologias | Links |
-|---|---|---|---|
-| **Use Afrodite Pratas** | Catálogo de joias em prata 925 com filtro, busca, carrinho e pedido pelo WhatsApp | HTML, CSS, JavaScript | [Site](https://use-afrodite-pratas.vercel.app) · [Código](https://github.com/Rangel202/use-afrodite-pratas) |
-| **GOBRS** | Landing page de um grupo de busca, resgate e salvamento | Next.js, React, TypeScript, Tailwind, Framer Motion | [Site](https://site-gobrs.vercel.app) · [Código](https://github.com/Rangel202/site-gobrs) |
-| **Raasch** | Site institucional e catálogo de joias, iluminação e decoração | Next.js, React, TypeScript, Tailwind | [Site](https://site-raasch.vercel.app) · código privado |
-| **Mestre das Tintas** | Site de pintura residencial e comercial, com animações | HTML, CSS, JavaScript, GSAP | [Site](https://mestre-das-tintas-mu.vercel.app) · código privado |
-| **Heloisa Fit** | Site de personal trainer com serviços, planos e contato pelo WhatsApp | HTML, CSS, JavaScript | [Site](https://heloisa-fit.vercel.app) · [Código](https://github.com/Rangel202/heloisa-fit) |
-| **Piuco Podas** | Site de serviços de poda de árvores com galeria e depoimentos | HTML, CSS, JavaScript | [Site](https://rangel202.github.io/Piuco-Podas/) · [Código](https://github.com/Rangel202/Piuco-Podas) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://use-afrodite-pratas.vercel.app"><img src="assets/afrodite.jpg" alt="Site Use Afrodite Pratas"/></a>
+      <h3>Use Afrodite Pratas</h3>
+      <p>Catálogo de joias em prata 925 com filtro, busca, carrinho e pedido pelo WhatsApp. Carga inicial reduzida de 1,8 MB para 170 KB.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://use-afrodite-pratas.vercel.app">🌐 Ver site</a> · <a href="https://github.com/Rangel202/use-afrodite-pratas">💻 Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://site-gobrs.vercel.app"><img src="assets/gobrs.jpg" alt="Site GOBRS"/></a>
+      <h3>GOBRS</h3>
+      <p>Landing page de um grupo voluntário de busca, resgate e salvamento do RS, com acionamento rápido por ligação e WhatsApp.</p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code></p>
+      <a href="https://site-gobrs.vercel.app">🌐 Ver site</a> · <a href="https://github.com/Rangel202/site-gobrs">💻 Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://site-raasch.vercel.app"><img src="assets/raasch.jpg" alt="Site Raasch"/></a>
+      <h3>Raasch</h3>
+      <p>Site institucional e catálogo de joias, iluminação e decoração, com conteúdo migrado do site antigo e venda pelo WhatsApp.</p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code></p>
+      <a href="https://site-raasch.vercel.app">🌐 Ver site</a> · 🔒 Código privado
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mestre-das-tintas-mu.vercel.app"><img src="assets/mestre.jpg" alt="Site Mestre das Tintas"/></a>
+      <h3>Mestre das Tintas</h3>
+      <p>Site de pintura residencial e comercial com animações e foco em levar o visitante ao pedido de orçamento.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>GSAP</code></p>
+      <a href="https://mestre-das-tintas-mu.vercel.app">🌐 Ver site</a> · 🔒 Código privado
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://heloisa-fit.vercel.app"><img src="assets/heloisa.jpg" alt="Site Heloisa Fit"/></a>
+      <h3>Heloisa Fit</h3>
+      <p>Site de personal trainer com serviços, planos e agendamento pelo WhatsApp.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://heloisa-fit.vercel.app">🌐 Ver site</a> · <a href="https://github.com/Rangel202/heloisa-fit">💻 Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://rangel202.github.io/Piuco-Podas/"><img src="assets/piuco.jpg" alt="Site Piuco Podas"/></a>
+      <h3>Piuco Podas</h3>
+      <p>Site de serviços de poda de árvores com galeria de trabalhos, depoimentos e pedido de orçamento.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://rangel202.github.io/Piuco-Podas/">🌐 Ver site</a> · <a href="https://github.com/Rangel202/Piuco-Podas">💻 Código</a>
+    </td>
+  </tr>
+</table>
 
 ## 🎓 Projetos acadêmicos
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| [**Gestão de Atendimentos**](https://github.com/Rangel202/Gestao_atendimentos) | Sistema de registro e gestão de atendimentos, com API REST e front-end | Node.js, Express, Sequelize, MySQL, HTML, CSS, JavaScript |
-| [**Automação de Testes FGTAS**](https://github.com/Rangel202/gestao_atendimento_FGTAS) | Testes automatizados da Gestão de Atendimentos FGTAS (login, CPF/CNPJ, perfis), em equipe | Java, Selenium, JUnit, TestNG |
-| [**API SDM**](https://github.com/Rangel202/api_sdm_25_2) | API REST com cidades, clientes, produtos e pedidos | Node.js, Express, MySQL |
+| [**Gestão de Atendimentos**](https://github.com/Rangel202/Gestao_atendimentos) | Sistema de registro e gestão de atendimentos, com API REST e front-end | Node.js · Express · Sequelize · MySQL · JavaScript |
+| [**Automação de Testes FGTAS**](https://github.com/Rangel202/gestao_atendimento_FGTAS) | Testes automatizados de login, CPF/CNPJ e perfis de usuário, em equipe | Java · Selenium · JUnit · TestNG |
+| [**API SDM**](https://github.com/Rangel202/api_sdm_25_2) | API REST com cidades, clientes, produtos e pedidos | Node.js · Express · MySQL |
 
-## 🛠️ Tecnologias
+## 📫 Vamos conversar?
 
-**Front-end**<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+Estou aberto a vagas e a conversas sobre projetos. O melhor caminho é pelo [**LinkedIn**](https://www.linkedin.com/in/gabriel-puchivailo-rangel-7a9675304/).
 
-**Back-end e banco de dados**<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Ferramentas e qualidade**<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-## 📫 Contato
-
-Estou aberto a vagas e conversas sobre projetos. O melhor caminho é pelo [LinkedIn](https://www.linkedin.com/in/gabriel-puchivailo-rangel-7a9675304/).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" width="100%" alt=""/>
